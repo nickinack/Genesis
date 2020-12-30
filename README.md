@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Genesis is a library created using Python in order to implement Genetic Algorithms. Genetic Algorithms(GAs) were inspired by the Charles Darwin theory of natural selection and we have added functionalities for an abstract GA solver and used it to optimize the travelling salesman problem (TSP), approximate the minimal roots of a non-linear equation and feature selection in the field of Machine Learning. 
+Genesis is a library created using Python in order to implement Genetic Algorithms and its applications in day to day life. Genetic Algorithms(GAs) were inspired by the Charles Darwin theory of natural selection and we have added functionalities for an abstract GA solver and used it to optimize the travelling salesman problem (TSP), approximate the minimal roots of a non-linear equation and feature selection in the field of Machine Learning. 
 
 ## Installation
 
